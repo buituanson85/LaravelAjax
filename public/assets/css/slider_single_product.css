@@ -1,0 +1,26 @@
+.image-preview,
+.image-preview_two,
+.image-preview_three,
+.image-preview_four,
+.image-preview_five,
+.image-preview_six{
+    width: 150px;
+    min-height: 150px;
+    border: 2px solid #DDDDDD;
+    margin-top: 15px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    color: #CCCCCC;
+}
+.image-preview__image,
+.image-preview__image_two,
+.image-preview__image_three,
+.image-preview__image_four,
+.image-preview__image_five,
+.image-preview__image_six{
+    /*display: none;*/
+    width: 100%;
+}

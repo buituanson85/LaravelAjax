@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1430329f-4a36-494f-a6e3-0aa9f5994606" name="demo" url="http://localhost:8080/AptechLaravel">
+        <fileTransfer mountedRoot="D:\Setup\Xampp\htdocs\AptechLaravel" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
